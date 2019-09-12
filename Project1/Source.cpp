@@ -6,7 +6,7 @@ int main() {
 
 
 
-
+	cout << "ALOOO" << endl;
 	system("pause");
 	return 0;
 }
